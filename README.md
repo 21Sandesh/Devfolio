@@ -15,6 +15,6 @@ Autoslider - Hand Gesture Presentation Control
 
 
 Team - 
-Sandesh Kawane, Harshal Inagle, Rushal Patil
+Sandesh Kawane, Harshal Ingale, Rushal Patil
 
 Vishwakarma Institute of Technology, Pune
