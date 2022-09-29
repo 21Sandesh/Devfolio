@@ -1,6 +1,7 @@
 # Devfolio
 Devfolio Hackthon
 Autoslider - Hand Gesture Presentation Control
+
 -> Domain - Image Detection and Recognition
 -> Python Project Model based upon Opencv, NumPy, Mediapipe Libraries.
 -> Pre-defined Hand (Fist) Gestures are used to Control Slides in Presentation.
